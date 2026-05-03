@@ -1,0 +1,8 @@
+# Code ownership for amare-office/amare-updates
+#
+# This repo is auto-published by CI on every release tag. Manual edits should
+# be rare — the only time a human commits here is for skeleton/setup files
+# (this PR) or breaking-glass recovery.
+#
+# Default owner for everything: ASI.
+* @asiamar26
