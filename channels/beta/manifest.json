@@ -2,23 +2,23 @@
   "kind": "release",
   "schema_version": 1,
   "channel": "beta",
-  "version": "0.1.2-rc.1",
-  "released_at": "2026-05-06T23:32:48.000Z",
+  "version": "0.1.2-rc.3",
+  "released_at": "2026-05-07T03:46:35.000Z",
   "images": [
     {
       "service": "api",
       "repo": "ghcr.io/asiamar26/api",
-      "digest": "sha256:3d231a31e6a0e068fdef189fbcba8fd45ed3ee2402ea31b37bb6f57a6571073c"
+      "digest": "sha256:9911808856e67cbbb9118ab68f2c6d907877054208d2d843257a0d9362c725ad"
     },
     {
       "service": "web",
       "repo": "ghcr.io/asiamar26/web",
-      "digest": "sha256:e799234efe0367af2dd05cf6aedaffc6e19db04527b8ccdae776cd068deff7f9"
+      "digest": "sha256:5e15f5864baab9526e786f4330b600d694ed431598d8c01400eeb08e4325e28a"
     },
     {
       "service": "portal",
       "repo": "ghcr.io/asiamar26/portal",
-      "digest": "sha256:f4412de360897df166fd0c9f8487af0188b4d7f0b279327984b7163fd4f8f33e"
+      "digest": "sha256:8c1830ae21d66d1d8d76b757860b8b471a15742a00ae8be8abb198e68ed99902"
     }
   ],
   "changelog_excerpt": "",
